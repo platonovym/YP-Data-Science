@@ -1,1 +1,1 @@
-# Yandex practicum projects
+# Проекты из яндекс практикума
