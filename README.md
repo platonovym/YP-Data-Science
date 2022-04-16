@@ -1,1 +1,1 @@
-# Yandex-DA-DS
+# Yandex practicum DS
