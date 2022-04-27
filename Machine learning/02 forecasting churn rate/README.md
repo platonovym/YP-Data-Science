@@ -1,6 +1,6 @@
 **Отток клиентов**
 
-**Инструменты:** Pandas, Matplotlib, Scikit-learn
+**Инструменты:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
 
 **Задача:** На основе данных из банка определить клиент, который может уйти.
 
